@@ -1,4 +1,4 @@
-Deployment Link:
+Deployment Link:https://javanejones.github.io/web-scraping-challenge/   
 
 # Web Scraping Homework - Mission to Mars
 
